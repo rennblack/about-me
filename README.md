@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rennblack
 - 👀 I’m interested in creating user-friendly environments.
-- 🌱 I’m currently learning ES6 Javascript
+- 🌱 I’m currently working in ES6 Javascript
 - 📫 How to reach me ...rennblack @ gmail.com
 
 <!---
